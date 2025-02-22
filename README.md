@@ -20,7 +20,6 @@
 
 ### 🔹 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 
