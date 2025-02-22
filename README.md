@@ -1,9 +1,6 @@
-<h1 align="center">Hello! 👋 I'm Dmitry</h1>
-
-<p align="center">
-  🎓 <b>Web Developer</b> | 💻 <b>React & Node.js</b> | 🚀 <b>Building Fast & Scalable Web Apps</b>
-</p>
-
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Dmitry!
+</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
@@ -43,17 +40,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SSSkeletry&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SSSkeletry&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSkeletry&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSSkeletry&theme=radical" width="51%" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSkeletry&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSkeletry&layout=compact&theme=radical" width="38%" />
 </p>
+
+
 
 
 ---
 
-## 📫 Contact Me
+### 📫 Connect with me
+<p align="center">
+  <span>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" style="width: 140px;" />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" style="width: 125px;" />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" style="width: 115px;" />
+  </span>
+</p>
 
-💌 **Email:** [skeletryz@gmail.com](mailto:skeletryz@gmail.com)  
