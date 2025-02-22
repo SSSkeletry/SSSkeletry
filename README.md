@@ -52,7 +52,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skeletry)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skeletry)  
-[![skeletryz@gmail.com](https://img.shields.io/badge/skeletry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skeletryz@gmail.com)
+[![skeletryz@gmail.com](https://img.shields.io/badge/skeletryz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skeletryz@gmail.com)
 
 
 
