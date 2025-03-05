@@ -35,15 +35,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSkeletry&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSSkeletry&theme=radical" width="51%" />
+  <img src="https://leetcard.jacoblin.cool/Skeletry?theme=dark&font=JetBrains+Mono" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSkeletry&layout=compact&theme=radical" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSkeletry&show_icons=true&theme=radical" width="42.5%" />
 </p>
 
 
