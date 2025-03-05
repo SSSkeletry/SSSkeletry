@@ -38,6 +38,10 @@
 ## 📊 Stats
 
 <p align="center">
+  <img src="https://www.codewars.com/users/SSkeletry/badges/large" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/Skeletry?theme=dark&font=JetBrains+Mono" width="48%" />
 </p>
 
